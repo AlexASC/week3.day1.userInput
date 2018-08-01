@@ -1,7 +1,7 @@
 # week3.day1.userInput
 
 ## Instructions
-1. Fork and clone this repo: [week3.day1.userInput](https://github.com/AllStarCodeOrg/week3.day1.userInput)
+1. Fork and clone this repo: [week3.day1.userInput]   (https://github.com/AllStarCodeOrg/week3.day1.userInput)
 2. Do NOT alter the HTML or CSS and do not use an outside library.
 3. Using what you know about the DOM and JavaScript, modify the website in the following ways:
    - WHILE typing in the `#title_input` field, the `#main_title` is updated
